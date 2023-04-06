@@ -203,6 +203,14 @@
   width: 100%;
   padding: 0.5rem;
 }
+#submit{
+  margin: 4px;
+  padding: 6px;
+}
+#submit:hover{
+  background-color: red;
+  color: yellow;
+}
 
 footer {
   /* align-items: center;
