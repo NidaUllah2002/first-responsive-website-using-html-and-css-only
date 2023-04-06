@@ -1,1 +1,1 @@
-# first-responsive-website-using-html-and-css-only
+# first-responsive-website-using-html-and-css
